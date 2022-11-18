@@ -1,8 +1,8 @@
-package myTest;
+package com.huawei.myTest;
 
 import java.math.BigDecimal;
 
-public class Test022 {
+public class Test008 {
     public static void main(String[] args) {
         Double total = Double.parseDouble("19.9");
         Double total2 = Double.valueOf("19.9");
