@@ -34,6 +34,7 @@ public class Test006 {
         System.out.println(code1);
     }
 
+    //json字符串转map集合
     private static Map<String, Object> jsonToMap(String s) {
         JSONObject jsonMap = null;
         try {
