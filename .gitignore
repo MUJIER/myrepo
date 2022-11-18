@@ -1,0 +1,9 @@
+# Dependency directories6）
+.DS_Store
+.idea
+*.iml
+.idea
+logs
+out
+gen
+target
